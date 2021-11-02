@@ -1,0 +1,6 @@
+exclude:
+    - master
+    - main
+    - staging
+    - production
+delete_closed_pr: false
